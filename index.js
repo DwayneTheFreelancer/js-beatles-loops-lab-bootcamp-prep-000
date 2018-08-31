@@ -18,7 +18,7 @@ function johnLennonFacts(facts) {
 }
 
 function iLoveTheBeatles(array) {
-  array = [""]
+  array = ["I love the Beatles!"];
   do {
     
   } while();
